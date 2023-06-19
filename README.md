@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Gede Sanjaya Indrajaya, a Data Science Major a
 ## Projects
 
 You can see my projects on my GitHub Repository here.
-Also a project I worked on with my team :
+Also, here's a project I worked on with my team :
 - Research Author (https://ieeexplore.ieee.org/document/10127855): Comparison of Decision Tree and Support Vector Machine for Predicting Jakarta Air Quality Index
 
 ## Skills
