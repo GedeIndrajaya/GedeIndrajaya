@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Gede Sanjaya Indrajaya, a Data Science Major a
 
 - 🌱 I’m currently studying at Bina Nusantara University in Data Science Major.
 - 💡 I love exploring new technologies and experimenting with different programming languages, especially about Machine Learning and Deep Learning.
-- 📫 How to reach me: Email : gedesanjaya921@gmail.com
+- 📫 Reach me through : Personal Email : gedesanjaya921@gmail.com, University Email : gede.indrajaya@binus.ac.id
 
 ## Projects
 
